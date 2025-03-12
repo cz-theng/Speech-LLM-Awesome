@@ -30,3 +30,9 @@ Here is a curated list of projects about large language models in Speech
 ## Encoder
 
 
+## Tools
+
+### [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca)
+
+### [MOSS](https://github.com/OpenMOSS/MOSS)
+
